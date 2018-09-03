@@ -1,2 +1,3 @@
 # RNN
-RNN example using Python, Tensorflow and Keras and MNIST Dataset
+
+Digit Classification Example with RNN using Python, Tensorflow, Keras and MNIST Dataset
